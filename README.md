@@ -1,2 +1,1 @@
-# CIS181Project3
-CIS 181 Project 3
+I dont know how well this will work since I have not used github before, but once you are finished please add all code motifications to this code, including changes in script to increment number of enemies and sprites, import and upload the zip with your name added to the title so we know who has finished.
